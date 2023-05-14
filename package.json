@@ -15,6 +15,9 @@
     "nodemon": "^2.0.22"
   },
   "dependencies": {
-    "unofficial-jisho-api": "^2.3.0"
+    "kuromoji": "^0.1.2",
+    "unofficial-jisho-api": "^2.3.0",
+    "wanakana": "^5.1.0",
+    "xml2js": "^0.5.0"
   }
 }
